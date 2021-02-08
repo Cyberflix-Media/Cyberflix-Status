@@ -8,12 +8,16 @@ sites:
     url: https://www.cyberflix.io
   - name: Cyberflix Backend
     url: https://backend.cyberflix.io
+    icon: https://github.com/liaralabs/swizzin_dashboard/blob/master/static/img/favicon/favicon.ico
   - name: Cyberflix Accounts
     url: https://accounts.cyberflix.io
+    icon: https://imgur.com/iiWhMYv.png
   - name: Cyberflix Speedtest
     url: https://speedtest.cyberflix.io
+    icon: https://imgur.com/fgPiJbP.png
   - name: Cyberflix Docs
     url: https://docs.cyberflix.io
+    icon: https://imgur.com/m3TiLSb.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -21,9 +25,11 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://imgur.com/RDI71QW.png
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  favicon: https://imgur.com/vZfUIGH.png
+  name: Cyberflix Status
+  theme: dark
+  introTitle: ![](https://imgur.com/C6RHrNY.png)
+  introMessage: Welcome to the Cyberflix Status page. Here you will find the status for the entire media center.
   navbar:
     - title: Status
       href: /
