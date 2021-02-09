@@ -6,37 +6,37 @@ repo: Cyberflix-Status
 sites:
   - name: Cyberflix Frontend
     url: https://www.cyberflix.io
-    icon: https://imgur.com/DZswp1A.png
+    icon: https://imgur.com/asDe2FY.png
   - name: Cyberflix Backend
     url: https://backend.cyberflix.io
-    icon: https://raw.githubusercontent.com/liaralabs/swizzin_dashboard/master/static/img/favicon/android-chrome-512x512.png
+    icon: https://imgur.com/hq3cFkv.png
   - name: Cyberflix Accounts
     url: https://accounts.cyberflix.io
-    icon: https://imgur.com/DNStKww.png
+    icon: https://imgur.com/dXq1Np0.png
   - name: Cyberflix Speedtest
     url: https://speedtest.cyberflix.io
-    icon: https://imgur.com/fgPiJbP.png
+    icon: https://imgur.com/OknPbfA.png
   - name: Cyberflix Docs
     url: https://docs.cyberflix.io
-    icon: https://imgur.com/m3TiLSb.png
+    icon: https://imgur.com/BQnDNtO.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.cyberflix.io
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://imgur.com/vZfUIGH.png
-  favicon: https://imgur.com/vZfUIGH.png
+  logoUrl: https://imgur.com/l0HFokw.png
+  favicon: https://imgur.com/l0HFokw.png
   name: Cyberflix Status
   theme: dark
-  introTitle: "<img src='https://imgur.com/C6RHrNY.png' alt='' style='margin-left: auto;margin-right: auto;margin-top: 1em;display: block;width: 100%;'>"
+  introTitle: "<img src='https://imgur.com/aZOkMCR.png' alt='' style='margin-left: auto;margin-right: auto;margin-top: 1em;display: block;width: 100%;'>"
   introMessage: Welcome to the Cyberflix Status page. Here you will find the status for the entire media center.
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  css: "body {background: url(https://i.imgur.com/9vL4iNf.png); background-repeat: repeat, no-repeat; background-attachment: fixed, fixed; background-position: center center, center center; background-size: auto, cover; -webkit-background-size: auto, cover; -moz-background-size: auto, cover; -o-background-size: auto, cover;} nav {display: none;} .icon.svelte-14gfn20.svelte-14gfn20.svelte-14gfn20 {height: 27px;} article {background: #161b22;border-color: #161b22;} ::-webkit-scrollbar { width: 5px; } ::-webkit-scrollbar-track { background: #3B3B3B; } ::-webkit-scrollbar-thumb { background: #888888; border-radius: 10px; } ::-webkit-scrollbar-thumb:hover { background: #888888; }"
+  css: "body {background: url(https://imgur.com/KA7S6ex.png); background-repeat: repeat, no-repeat; background-attachment: fixed, fixed; background-position: center center, center center; background-size: auto, cover; -webkit-background-size: auto, cover; -moz-background-size: auto, cover; -o-background-size: auto, cover;} nav {display: none;} .icon.svelte-14gfn20.svelte-14gfn20.svelte-14gfn20 {height: 27px;} article {background: #161b22;border-color: #161b22;} ::-webkit-scrollbar { width: 5px; } ::-webkit-scrollbar-track { background: #3B3B3B; } ::-webkit-scrollbar-thumb { background: #888888; border-radius: 10px; } ::-webkit-scrollbar-thumb:hover { background: #888888; }"
   
 i18n:
   footer: © 2020 Cyberflix Media. All rights reserved.
