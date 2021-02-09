@@ -29,7 +29,7 @@ status-website:
   favicon: https://imgur.com/vZfUIGH.png
   name: Cyberflix Status
   theme: dark
-  introTitle: "<img src='https://imgur.com/C6RHrNY.png' alt='' style='margin-left: auto;margin-right: auto;margin-top: 1em;display: block;width: 80%;'>"
+  introTitle: "<img src='https://imgur.com/C6RHrNY.png' alt='' style='margin-left: auto;margin-right: auto;margin-top: 1em;display: block;width: 100%;'>"
   introMessage: Welcome to the Cyberflix Status page. Here you will find the status for the entire media center.
   navbar:
     - title: Status
