@@ -12,7 +12,7 @@ sites:
     icon: https://raw.githubusercontent.com/liaralabs/swizzin_dashboard/master/static/img/favicon/android-chrome-512x512.png
   - name: Cyberflix Accounts
     url: https://accounts.cyberflix.io
-    icon: https://imgur.com/iiWhMYv.png
+    icon: https://imgur.com/DNStKww.png
   - name: Cyberflix Speedtest
     url: https://speedtest.cyberflix.io
     icon: https://imgur.com/fgPiJbP.png
