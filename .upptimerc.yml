@@ -36,7 +36,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  css: "body {background: url(https://i.imgur.com/9vL4iNf.png);color: var(--body-text-color);} nav {display: none;} .icon.svelte-14gfn20.svelte-14gfn20.svelte-14gfn20 {height: 27px;} article {background: #161b22;border-color: #161b22;}"
+  css: "body {background: url(https://i.imgur.com/9vL4iNf.png);height: 100%;background-position: center;background-repeat: no-repeat;background-size: cover;} nav {display: none;} .icon.svelte-14gfn20.svelte-14gfn20.svelte-14gfn20 {height: 27px;} article {background: #161b22;border-color: #161b22;}"
   
 i18n:
   footer: © 2020 Cyberflix Media. All rights reserved.
