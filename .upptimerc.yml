@@ -27,7 +27,7 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://imgur.com/l0HFokw.png
   favicon: https://imgur.com/l0HFokw.png
-  name: Cyberflix Status
+  name: Cyberflix - Status
   theme: dark
   introTitle: "<img src='https://imgur.com/aZOkMCR.png' alt='' style='margin-left: auto;margin-right: auto;margin-top: 1em;display: block;width: 100%;'>"
   introMessage: Welcome to the Cyberflix Status page. Here you will find the status for the entire media center.
