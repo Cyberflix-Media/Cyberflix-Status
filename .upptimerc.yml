@@ -5,28 +5,28 @@ repo: Cyberflix-Status
 # Add your sites here
 sites:
   - name: Cyberflix Frontend
-    url: https://www.cyberflix.io
+    url: https://imgur.com/WETM3Qs.io
     icon: https://imgur.com/asDe2FY.png
   - name: Cyberflix Backend
     url: https://backend.cyberflix.io
-    icon: https://imgur.com/hq3cFkv.png
+    icon: https://imgur.com/goTm1a2.png
   - name: Cyberflix Accounts
     url: https://accounts.cyberflix.io
-    icon: https://imgur.com/dXq1Np0.png
+    icon: https://imgur.com/WfykD6a.png
   - name: Cyberflix Speedtest
     url: https://speedtest.cyberflix.io
-    icon: https://imgur.com/OknPbfA.png
+    icon: https://imgur.com/foLDaUS.png
   - name: Cyberflix Docs
     url: https://docs.cyberflix.io
-    icon: https://imgur.com/BQnDNtO.png
+    icon: https://imgur.com/i7W3fo6.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.cyberflix.io
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://imgur.com/l0HFokw.png
-  favicon: https://imgur.com/l0HFokw.png
+  logoUrl: https://imgur.com/cN1o7fQ.png
+  favicon: https://imgur.com/cN1o7fQ.png
   name: Cyberflix - Status
   theme: dark
   introTitle: "<img src='https://imgur.com/aZOkMCR.png' alt='' style='margin-left: auto;margin-right: auto;margin-top: 1em;display: block;width: 100%;'>"
