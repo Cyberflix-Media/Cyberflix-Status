@@ -5,8 +5,8 @@ repo: Cyberflix-Status
 # Add your sites here
 sites:
   - name: Cyberflix Frontend
-    url: https://imgur.com/WETM3Qs.io
-    icon: https://imgur.com/asDe2FY.png
+    url: https://www.cyberflix.io
+    icon: https://imgur.com/WETM3Qs.png
   - name: Cyberflix Backend
     url: https://backend.cyberflix.io
     icon: https://imgur.com/goTm1a2.png
