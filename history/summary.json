@@ -44,18 +44,20 @@
     "url": "https://accounts.cyberflix.io",
     "icon": "https://imgur.com/WfykD6a.png",
     "slug": "cyberflix-accounts",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 507,
-    "timeDay": 495,
-    "timeWeek": 490,
-    "timeMonth": 506,
-    "timeYear": 507,
-    "dailyMinutesDown": {}
+    "time": 506,
+    "timeDay": 487,
+    "timeWeek": 488,
+    "timeMonth": 505,
+    "timeYear": 506,
+    "dailyMinutesDown": {
+      "2021-03-10": 0
+    }
   },
   {
     "name": "Cyberflix Speedtest",
