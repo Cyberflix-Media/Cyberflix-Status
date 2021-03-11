@@ -5,16 +5,16 @@
     "icon": "https://imgur.com/WETM3Qs.png",
     "slug": "cyberflix-frontend",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
-    "time": 526,
-    "timeDay": 478,
-    "timeWeek": 511,
-    "timeMonth": 522,
-    "timeYear": 526,
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 525,
+    "timeDay": 469,
+    "timeWeek": 493,
+    "timeMonth": 518,
+    "timeYear": 525,
     "dailyMinutesDown": {
       "2021-03-02": 20
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 944,
-    "timeDay": 930,
-    "timeWeek": 949,
-    "timeMonth": 953,
+    "timeDay": 944,
+    "timeWeek": 931,
+    "timeMonth": 954,
     "timeYear": 944,
     "dailyMinutesDown": {
       "2021-03-02": 18
@@ -45,18 +45,19 @@
     "icon": "https://imgur.com/WfykD6a.png",
     "slug": "cyberflix-accounts",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.34%",
+    "uptimeDay": "18.57%",
+    "uptimeWeek": "88.37%",
+    "uptimeMonth": "97.32%",
+    "uptimeYear": "97.34%",
     "time": 506,
-    "timeDay": 487,
+    "timeDay": 496,
     "timeWeek": 488,
-    "timeMonth": 505,
+    "timeMonth": 502,
     "timeYear": 506,
     "dailyMinutesDown": {
-      "2021-03-10": 0
+      "2021-03-11": 24,
+      "2021-03-10": 1148
     }
   },
   {
@@ -71,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 519,
-    "timeDay": 485,
-    "timeWeek": 513,
-    "timeMonth": 522,
+    "timeDay": 530,
+    "timeWeek": 510,
+    "timeMonth": 518,
     "timeYear": 519,
     "dailyMinutesDown": {}
   },
@@ -88,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 122,
-    "timeDay": 65,
-    "timeWeek": 154,
-    "timeMonth": 122,
-    "timeYear": 122,
+    "time": 121,
+    "timeDay": 91,
+    "timeWeek": 153,
+    "timeMonth": 118,
+    "timeYear": 121,
     "dailyMinutesDown": {
       "2021-02-11": 40
     }
