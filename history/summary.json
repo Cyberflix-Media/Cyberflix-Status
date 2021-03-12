@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 525,
-    "timeDay": 469,
-    "timeWeek": 493,
-    "timeMonth": 518,
-    "timeYear": 525,
+    "time": 524,
+    "timeDay": 517,
+    "timeWeek": 491,
+    "timeMonth": 493,
+    "timeYear": 524,
     "dailyMinutesDown": {
       "2021-03-02": 20
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 944,
-    "timeDay": 944,
-    "timeWeek": 931,
-    "timeMonth": 954,
-    "timeYear": 944,
+    "time": 943,
+    "timeDay": 923,
+    "timeWeek": 936,
+    "timeMonth": 939,
+    "timeYear": 943,
     "dailyMinutesDown": {
       "2021-03-02": 18
     }
@@ -45,15 +45,15 @@
     "icon": "https://imgur.com/WfykD6a.png",
     "slug": "cyberflix-accounts",
     "status": "up",
-    "uptime": "95.64%",
-    "uptimeDay": "0.01%",
+    "uptime": "95.70%",
+    "uptimeDay": "45.71%",
     "uptimeWeek": "80.61%",
     "uptimeMonth": "95.54%",
-    "uptimeYear": "95.64%",
+    "uptimeYear": "95.70%",
     "time": 505,
-    "timeDay": 489,
+    "timeDay": 478,
     "timeWeek": 485,
-    "timeMonth": 501,
+    "timeMonth": 496,
     "timeYear": 505,
     "dailyMinutesDown": {
       "2021-03-11": 807,
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 519,
-    "timeDay": 530,
-    "timeWeek": 510,
-    "timeMonth": 518,
-    "timeYear": 519,
+    "time": 518,
+    "timeDay": 482,
+    "timeWeek": 511,
+    "timeMonth": 515,
+    "timeYear": 518,
     "dailyMinutesDown": {}
   },
   {
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 121,
-    "timeDay": 91,
-    "timeWeek": 153,
-    "timeMonth": 117,
-    "timeYear": 121,
+    "time": 122,
+    "timeDay": 159,
+    "timeWeek": 157,
+    "timeMonth": 108,
+    "timeYear": 122,
     "dailyMinutesDown": {
       "2021-02-11": 40
     }
