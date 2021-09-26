@@ -1,7 +1,7 @@
 url: https://accounts.cyberflix.io
-status: up
-code: 200
-responseTime: 441
-lastUpdated: 2021-09-25T23:03:03.339Z
+status: down
+code: 502
+responseTime: 435
+lastUpdated: 2021-09-26T02:18:28.778Z
 startTime: Mon Feb 08 2021 11:03:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
