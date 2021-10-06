@@ -7,7 +7,7 @@ sites:
   - name: Cyberflix Frontend
     url: https://www.cyberflix.io
     icon: https://imgur.com/WETM3Qs.png
-  - name: Cyberflix Backend
+  - name: Cyberflix Backen
     url: https://backend.cyberflix.io
     icon: https://imgur.com/goTm1a2.png
   - name: Cyberflix Accounts
