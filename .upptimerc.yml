@@ -1,31 +1,43 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: Cyberflix Media
+repo: Cyberflix-Status
 
+# Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Cyberflix Frontend
+    url: https://www.cyberflix.io
+    icon: https://archive.cyberflix.io/images/logos/SVGs/Logo.svg
+  - name: Cyberflix Backend
+    url: https://backend.cyberflix.io
+    icon: https://archive.cyberflix.io/images/logos/SVGs/Backend.svg
+  - name: Cyberflix Accounts
+    url: https://accounts.cyberflix.io
+    icon: https://archive.cyberflix.io/images/logos/SVGs/Accounts.svg
+  - name: Cyberflix Speedtest
+    url: https://speedtest.cyberflix.io
+    icon: https://archive.cyberflix.io/images/logos/SVGs/Speedtest.svg
+  - name: Cyberflix Docs
+    url: https://docs.cyberflix.io
+    icon: https://archive.cyberflix.io/images/logos/SVGs/Docs.svg
+  - name: Cyberflix Archive
+    url: https://archive.cyberflix.io
+    icon: https://archive.cyberflix.io/images/logos/SVGs/Archive.svg
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # Add your custom domain below, or remove the next line if you don't have a domain
+  cname: status.cyberflix.io
+  # Uncomment the following line if you don't have a custom domain and add your repo name
+  # baseUrl: /upptime
+  logoUrl: https://archive.cyberflix.io/images/logos/SVGs/Status.svg
+  favicon: https://archive.cyberflix.io/images/logos/SVGs/Status.svg
+  name: Cyberflix - Status
+  theme: dark
+  introTitle: "<img src='https://archive.cyberflix.io/images/titles/Cyberflix-Status-Light.png' alt='' style='margin-left: auto;margin-right: auto;margin-top: 1em;display: block;width: 100%;'>"
+  introMessage: Welcome to the Cyberflix Status page. Here you will find the status for the entire media center.
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+i18n:
+  footer: Copyright © 2022 Cyberflix Media. All rights reserved.
