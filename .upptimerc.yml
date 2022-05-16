@@ -27,7 +27,7 @@ status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.cyberflix.io
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
+  baseUrl: /Cyberflix-Status
   logoUrl: https://archive.cyberflix.io/images/logos/SVGs/Status.svg
   favicon: https://archive.cyberflix.io/images/logos/SVGs/Status.svg
   name: Cyberflix - Status
@@ -39,5 +39,6 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  css: ":root {--card-background-color: #161b22;--card-border-color: #161b22;--down-border-left-color: red;--up-border-left-color: limegreen;}body {background: url(https://archive.cyberflix.io/images/backgrounds/Main-Background.png); background-repeat: no-repeat; background-attachment: fixed; background-size: cover; -webkit-background-size: auto, cover; -moz-background-size: auto, cover; -o-background-size: auto, cover;} nav {display: none;} .icon.svelte-14gfn20.svelte-14gfn20.svelte-14gfn20 {height: 27px;}::-webkit-scrollbar {width: 5px;}::-webkit-scrollbar-track {background: #3B3B3B;}::-webkit-scrollbar-thumb {background: #888888; border-radius: 10px;}::-webkit-scrollbar-thumb:hover {background: #888888;}"
 i18n:
   footer: Copyright © 2022 Cyberflix Media. All rights reserved.
