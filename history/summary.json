@@ -5,18 +5,19 @@
     "icon": "https://archive.cyberflix.io/images/logos/SVGs/Logo.svg",
     "slug": "cyberflix-frontend",
     "status": "down",
-    "uptime": "94.71%",
-    "uptimeDay": "70.09%",
-    "uptimeWeek": "95.73%",
-    "uptimeMonth": "81.95%",
-    "uptimeYear": "94.79%",
+    "uptime": "94.64%",
+    "uptimeDay": "60.76%",
+    "uptimeWeek": "94.39%",
+    "uptimeMonth": "81.64%",
+    "uptimeYear": "94.72%",
     "time": 398,
     "timeDay": 1231,
     "timeWeek": 545,
     "timeMonth": 497,
     "timeYear": 344,
     "dailyMinutesDown": {
-      "2022-09-27": 431,
+      "2022-09-28": 82,
+      "2022-09-27": 483,
       "2022-09-18": 149,
       "2022-09-17": 1309,
       "2022-09-01": 1194,
@@ -32,8 +33,7 @@
       "2022-01-16": 33,
       "2021-10-21": 772,
       "2021-10-20": 1168,
-      "2021-09-29": 20,
-      "2021-09-28": 15
+      "2021-09-29": 20
     }
   },
   {
@@ -42,7 +42,7 @@
     "icon": "https://archive.cyberflix.io/images/logos/SVGs/Backend.svg",
     "slug": "cyberflix-backend",
     "status": "up",
-    "uptime": "77.53%",
+    "uptime": "77.54%",
     "uptimeDay": "70.11%",
     "uptimeWeek": "95.73%",
     "uptimeMonth": "81.95%",
@@ -78,15 +78,15 @@
     "icon": "https://archive.cyberflix.io/images/logos/SVGs/Accounts.svg",
     "slug": "cyberflix-accounts",
     "status": "up",
-    "uptime": "51.83%",
+    "uptime": "51.86%",
     "uptimeDay": "70.11%",
     "uptimeWeek": "95.73%",
-    "uptimeMonth": "63.08%",
-    "uptimeYear": "70.94%",
+    "uptimeMonth": "63.36%",
+    "uptimeYear": "70.96%",
     "time": 334,
     "timeDay": 435,
     "timeWeek": 260,
-    "timeMonth": 477,
+    "timeMonth": 484,
     "timeYear": 266,
     "dailyMinutesDown": {
       "2022-09-27": 430,
@@ -150,8 +150,7 @@
       "2021-10-20": 1167,
       "2021-10-04": 509,
       "2021-10-03": 123,
-      "2021-09-29": 93,
-      "2021-09-28": 79
+      "2021-09-29": 93
     }
   },
   {
@@ -168,7 +167,7 @@
     "time": 350,
     "timeDay": 898,
     "timeWeek": 428,
-    "timeMonth": 572,
+    "timeMonth": 594,
     "timeYear": 277,
     "dailyMinutesDown": {
       "2022-09-27": 430,
