@@ -4,12 +4,18 @@ repo: Cyberflix-Status
 
 # Add your sites here
 sites:
-  - name: Cyberflix Frontend
+  - name: Cyberflix Main Site
     url: https://www.cyberflix.io
     icon: https://archive.cyberflix.io/images/logos/SVGs/Logo.svg
   - name: Cyberflix Backend
     url: https://backend.cyberflix.io
     icon: https://archive.cyberflix.io/images/logos/SVGs/Backend.svg
+  - name: Cyberflix Jellyfin
+    url: https://watch.cyberflix.io
+    icon: https://archive.cyberflix.io/images/logos/SVGs/Jellyfin.svg
+  - name: Cyberflix Request System
+    url: https://requests.cyberflix.io
+    icon: https://archive.cyberflix.io/images/logos/SVGs/Jellyseerr.svg
   - name: Cyberflix Accounts
     url: https://accounts.cyberflix.io
     icon: https://archive.cyberflix.io/images/logos/SVGs/Accounts.svg
