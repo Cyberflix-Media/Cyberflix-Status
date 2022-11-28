@@ -1,7 +1,7 @@
 url: https://backend.cyberflix.io
-status: down
-code: 502
-responseTime: 1202
-lastUpdated: 2022-11-28T20:54:33.504Z
+status: up
+code: 200
+responseTime: 1600
+lastUpdated: 2022-11-28T21:23:31.774Z
 startTime: Mon May 16 2022 13:07:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
