@@ -1,7 +1,7 @@
 url: https://speedtest.cyberflix.io
-status: up
-code: 200
-responseTime: 273
-lastUpdated: 2023-01-20T03:53:18.922Z
+status: down
+code: 502
+responseTime: 99
+lastUpdated: 2023-01-20T19:12:27.662Z
 startTime: Mon May 16 2022 13:07:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
