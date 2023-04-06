@@ -1,7 +1,7 @@
 url: https://watch.cyberflix.io
-status: up
-code: 200
-responseTime: 397
-lastUpdated: 2023-04-05T23:03:34.156Z
+status: down
+code: 502
+responseTime: 138
+lastUpdated: 2023-04-06T19:57:22.495Z
 startTime: Mon Nov 28 2022 18:14:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
