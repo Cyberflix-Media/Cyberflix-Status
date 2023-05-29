@@ -5,16 +5,16 @@
     "icon": "https://archive.cyberflix.io/images/logos/SVGs/Logo.svg",
     "slug": "cyberflix-main-site",
     "status": "up",
-    "uptime": "97.97%",
+    "uptime": "97.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.89%",
-    "uptimeYear": "97.97%",
-    "time": 276,
-    "timeDay": 237,
-    "timeWeek": 235,
-    "timeMonth": 244,
-    "timeYear": 276,
+    "uptimeYear": "97.98%",
+    "time": 275,
+    "timeDay": 80,
+    "timeWeek": 196,
+    "timeMonth": 236,
+    "timeYear": 275,
     "dailyMinutesDown": {
       "2023-05-02": 487,
       "2023-04-25": 124,
@@ -38,15 +38,15 @@
     "icon": "https://archive.cyberflix.io/images/logos/SVGs/Backend.svg",
     "slug": "cyberflix-backend",
     "status": "up",
-    "uptime": "91.12%",
+    "uptime": "91.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.91%",
     "uptimeYear": "97.59%",
     "time": 352,
-    "timeDay": 319,
-    "timeWeek": 233,
-    "timeMonth": 255,
+    "timeDay": 217,
+    "timeWeek": 218,
+    "timeMonth": 252,
     "timeYear": 378,
     "dailyMinutesDown": {
       "2023-05-02": 479,
@@ -68,8 +68,7 @@
       "2022-08-28": 505,
       "2022-06-30": 86,
       "2022-06-21": 27,
-      "2022-06-14": 15,
-      "2022-05-29": 20
+      "2022-06-14": 15
     }
   },
   {
@@ -78,16 +77,16 @@
     "icon": "https://archive.cyberflix.io/images/logos/SVGs/Jellyfin.svg",
     "slug": "cyberflix-jellyfin",
     "status": "up",
-    "uptime": "97.94%",
+    "uptime": "97.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.91%",
-    "uptimeYear": "97.94%",
-    "time": 296,
-    "timeDay": 300,
-    "timeWeek": 269,
-    "timeMonth": 286,
-    "timeYear": 296,
+    "uptimeYear": "97.95%",
+    "time": 295,
+    "timeDay": 128,
+    "timeWeek": 242,
+    "timeMonth": 282,
+    "timeYear": 295,
     "dailyMinutesDown": {
       "2023-05-02": 477,
       "2023-04-25": 121,
@@ -113,16 +112,16 @@
     "icon": "https://archive.cyberflix.io/images/logos/SVGs/Jellyseerr.svg",
     "slug": "cyberflix-request-system",
     "status": "up",
-    "uptime": "97.96%",
+    "uptime": "97.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.91%",
-    "uptimeYear": "97.96%",
-    "time": 481,
-    "timeDay": 466,
-    "timeWeek": 344,
-    "timeMonth": 428,
-    "timeYear": 481,
+    "uptimeYear": "97.98%",
+    "time": 480,
+    "timeDay": 177,
+    "timeWeek": 311,
+    "timeMonth": 423,
+    "timeYear": 480,
     "dailyMinutesDown": {
       "2023-05-02": 476,
       "2023-04-25": 120,
@@ -147,15 +146,15 @@
     "icon": "https://archive.cyberflix.io/images/logos/SVGs/Accounts.svg",
     "slug": "cyberflix-accounts",
     "status": "up",
-    "uptime": "81.57%",
+    "uptime": "81.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.92%",
     "uptimeYear": "90.57%",
     "time": 281,
-    "timeDay": 266,
-    "timeWeek": 204,
-    "timeMonth": 243,
+    "timeDay": 102,
+    "timeWeek": 183,
+    "timeMonth": 233,
     "timeYear": 297,
     "dailyMinutesDown": {
       "2023-05-02": 474,
@@ -218,8 +217,7 @@
       "2022-07-20": 499,
       "2022-06-30": 86,
       "2022-06-21": 202,
-      "2022-06-14": 15,
-      "2022-05-29": 20
+      "2022-06-14": 15
     }
   },
   {
@@ -234,9 +232,9 @@
     "uptimeMonth": "98.92%",
     "uptimeYear": "97.19%",
     "time": 292,
-    "timeDay": 273,
-    "timeWeek": 223,
-    "timeMonth": 704,
+    "timeDay": 85,
+    "timeWeek": 201,
+    "timeMonth": 699,
     "timeYear": 308,
     "dailyMinutesDown": {
       "2023-05-02": 473,
@@ -269,8 +267,7 @@
       "2022-08-14": 224,
       "2022-06-30": 86,
       "2022-06-21": 25,
-      "2022-06-14": 15,
-      "2022-05-29": 20
+      "2022-06-14": 15
     }
   },
   {
@@ -285,15 +282,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 180,
-    "timeDay": 181,
-    "timeWeek": 131,
-    "timeMonth": 150,
+    "timeDay": 48,
+    "timeWeek": 109,
+    "timeMonth": 146,
     "timeYear": 189,
     "dailyMinutesDown": {
       "2022-06-30": 85,
       "2022-06-21": 25,
-      "2022-06-14": 15,
-      "2022-05-29": 20
+      "2022-06-14": 15
     }
   },
   {
@@ -307,16 +303,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 159,
-    "timeDay": 196,
-    "timeWeek": 185,
+    "time": 158,
+    "timeDay": 180,
+    "timeWeek": 182,
     "timeMonth": 166,
     "timeYear": 155,
     "dailyMinutesDown": {
       "2022-06-30": 85,
       "2022-06-21": 25,
-      "2022-06-14": 15,
-      "2022-05-29": 20
+      "2022-06-14": 15
     }
   }
 ]
