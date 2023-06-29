@@ -1,7 +1,7 @@
 url: https://requests.cyberflix.io
-status: down
-code: 521
-responseTime: 142
-lastUpdated: 2023-06-29T05:46:16.049Z
+status: up
+code: 200
+responseTime: 515
+lastUpdated: 2023-06-29T05:52:25.017Z
 startTime: Mon Nov 28 2022 18:14:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
