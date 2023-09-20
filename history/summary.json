@@ -256,18 +256,18 @@
     "icon": "https://archive.cyberflix.io/images/logos/SVGs/Accounts.svg",
     "slug": "cyberflix-accounts",
     "status": "down",
-    "uptime": "63.60%",
+    "uptime": "63.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "68.64%",
+    "uptimeYear": "68.61%",
     "time": 299,
     "timeDay": 212,
     "timeWeek": 233,
     "timeMonth": 256,
     "timeYear": 286,
     "dailyMinutesDown": {
-      "2023-09-20": 47,
+      "2023-09-20": 226,
       "2023-09-19": 1440,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
@@ -475,10 +475,10 @@
     "url": "https://docs.cyberflix.io",
     "icon": "https://archive.cyberflix.io/images/logos/SVGs/Docs.svg",
     "slug": "cyberflix-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 176,
@@ -486,16 +486,18 @@
     "timeWeek": 109,
     "timeMonth": 133,
     "timeYear": 190,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-20": 2
+    }
   },
   {
     "name": "Cyberflix Archive",
     "url": "https://archive.cyberflix.io",
     "icon": "https://archive.cyberflix.io/images/logos/SVGs/Archive.svg",
     "slug": "cyberflix-archive",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -504,6 +506,8 @@
     "timeWeek": 150,
     "timeMonth": 159,
     "timeYear": 157,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-20": 0
+    }
   }
 ]
