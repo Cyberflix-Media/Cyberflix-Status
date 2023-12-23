@@ -5,15 +5,15 @@
     "icon": "https://archive.cyberflix.io/images/logos/SVGs/Logo.svg",
     "slug": "cyberflix-main-site",
     "status": "up",
-    "uptime": "88.09%",
+    "uptime": "88.12%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "39.49%",
+    "uptimeWeek": "53.76%",
     "uptimeMonth": "77.19%",
     "uptimeYear": "87.33%",
-    "time": 269,
-    "timeDay": 476,
-    "timeWeek": 273,
-    "timeMonth": 229,
+    "time": 268,
+    "timeDay": 119,
+    "timeWeek": 242,
+    "timeMonth": 224,
     "timeYear": 269,
     "dailyMinutesDown": {
       "2023-12-19": 389,
@@ -74,8 +74,7 @@
       "2023-02-06": 53,
       "2023-02-05": 54,
       "2023-02-04": 35,
-      "2023-02-03": 66,
-      "2022-12-23": 291
+      "2023-02-03": 66
     }
   },
   {
@@ -84,14 +83,14 @@
     "icon": "https://archive.cyberflix.io/images/logos/SVGs/Backend.svg",
     "slug": "cyberflix-backend",
     "status": "up",
-    "uptime": "87.00%",
+    "uptime": "87.02%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "39.49%",
+    "uptimeWeek": "53.76%",
     "uptimeMonth": "77.19%",
     "uptimeYear": "87.69%",
-    "time": 378,
-    "timeDay": 440,
-    "timeWeek": 223,
+    "time": 379,
+    "timeDay": 304,
+    "timeWeek": 239,
     "timeMonth": 294,
     "timeYear": 322,
     "dailyMinutesDown": {
@@ -145,8 +144,7 @@
       "2023-04-25": 123,
       "2023-04-21": 1358,
       "2023-04-20": 1162,
-      "2023-03-31": 17,
-      "2022-12-23": 289
+      "2023-03-31": 17
     }
   },
   {
@@ -155,15 +153,15 @@
     "icon": "https://archive.cyberflix.io/images/logos/SVGs/Jellyfin.svg",
     "slug": "cyberflix-jellyfin",
     "status": "up",
-    "uptime": "88.08%",
+    "uptime": "88.11%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "39.49%",
+    "uptimeWeek": "53.76%",
     "uptimeMonth": "77.20%",
     "uptimeYear": "87.35%",
     "time": 302,
-    "timeDay": 439,
-    "timeWeek": 301,
-    "timeMonth": 265,
+    "timeDay": 141,
+    "timeWeek": 269,
+    "timeMonth": 261,
     "timeYear": 301,
     "dailyMinutesDown": {
       "2023-12-19": 389,
@@ -225,8 +223,7 @@
       "2023-02-04": 44,
       "2023-01-20": 93,
       "2023-01-18": 45,
-      "2023-01-10": 21,
-      "2022-12-23": 288
+      "2023-01-10": 21
     }
   },
   {
@@ -235,15 +232,15 @@
     "icon": "https://archive.cyberflix.io/images/logos/SVGs/Jellyseerr.svg",
     "slug": "cyberflix-request-system",
     "status": "up",
-    "uptime": "88.09%",
+    "uptime": "88.13%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "39.49%",
+    "uptimeWeek": "53.76%",
     "uptimeMonth": "77.20%",
     "uptimeYear": "87.35%",
     "time": 451,
-    "timeDay": 540,
-    "timeWeek": 330,
-    "timeMonth": 330,
+    "timeDay": 308,
+    "timeWeek": 325,
+    "timeMonth": 327,
     "timeYear": 443,
     "dailyMinutesDown": {
       "2023-12-19": 389,
@@ -304,8 +301,7 @@
       "2023-02-04": 28,
       "2023-02-03": 25,
       "2023-01-20": 93,
-      "2023-01-18": 45,
-      "2022-12-23": 287
+      "2023-01-18": 45
     }
   },
   {
@@ -314,18 +310,19 @@
     "icon": "https://archive.cyberflix.io/images/logos/SVGs/Accounts.svg",
     "slug": "cyberflix-accounts",
     "status": "down",
-    "uptime": "53.48%",
+    "uptime": "53.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "43.51%",
+    "uptimeYear": "43.24%",
     "time": 277,
-    "timeDay": 342,
-    "timeWeek": 198,
-    "timeMonth": 228,
+    "timeDay": 119,
+    "timeWeek": 178,
+    "timeMonth": 227,
     "timeYear": 268,
     "dailyMinutesDown": {
-      "2023-12-22": 50,
+      "2023-12-23": 47,
+      "2023-12-22": 1440,
       "2023-12-21": 1440,
       "2023-12-20": 1440,
       "2023-12-19": 1440,
@@ -541,8 +538,7 @@
       "2023-02-05": 19,
       "2023-02-03": 19,
       "2023-01-20": 93,
-      "2023-01-18": 45,
-      "2022-12-23": 285
+      "2023-01-18": 45
     }
   },
   {
@@ -551,15 +547,15 @@
     "icon": "https://archive.cyberflix.io/images/logos/SVGs/Speedtest.svg",
     "slug": "cyberflix-speedtest",
     "status": "up",
-    "uptime": "90.68%",
+    "uptime": "90.69%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "39.49%",
+    "uptimeWeek": "53.76%",
     "uptimeMonth": "77.21%",
     "uptimeYear": "87.35%",
-    "time": 363,
-    "timeDay": 348,
-    "timeWeek": 192,
-    "timeMonth": 213,
+    "time": 360,
+    "timeDay": 221,
+    "timeWeek": 197,
+    "timeMonth": 211,
     "timeYear": 357,
     "dailyMinutesDown": {
       "2023-12-19": 389,
@@ -620,8 +616,7 @@
       "2023-02-06": 80,
       "2023-02-03": 15,
       "2023-01-20": 76,
-      "2023-01-18": 45,
-      "2022-12-23": 284
+      "2023-01-18": 45
     }
   },
   {
@@ -636,10 +631,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 179,
-    "timeDay": 282,
-    "timeWeek": 175,
+    "timeDay": 225,
+    "timeWeek": 194,
     "timeMonth": 155,
-    "timeYear": 142,
+    "timeYear": 143,
     "dailyMinutesDown": {}
   },
   {
@@ -654,8 +649,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 155,
-    "timeDay": 209,
-    "timeWeek": 149,
+    "timeDay": 82,
+    "timeWeek": 146,
     "timeMonth": 144,
     "timeYear": 152,
     "dailyMinutesDown": {}
