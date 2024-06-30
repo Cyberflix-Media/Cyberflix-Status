@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cyberflix.io.ico",
     "slug": "cyberflix-main-site",
     "status": "up",
-    "uptime": "79.60%",
+    "uptime": "79.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "75.38%",
     "time": 235,
-    "timeDay": 246,
-    "timeWeek": 228,
+    "timeDay": 206,
+    "timeWeek": 211,
     "timeMonth": 209,
     "timeYear": 231,
     "dailyMinutesDown": {
@@ -125,10 +125,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 161,
-    "timeDay": 94,
-    "timeWeek": 164,
-    "timeMonth": 175,
-    "timeYear": 167,
+    "timeDay": 210,
+    "timeWeek": 172,
+    "timeMonth": 176,
+    "timeYear": 168,
     "dailyMinutesDown": {
       "2024-01-16": 352
     }
@@ -145,10 +145,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 165,
-    "timeDay": 210,
-    "timeWeek": 193,
+    "timeDay": 228,
+    "timeWeek": 205,
     "timeMonth": 221,
-    "timeYear": 169,
+    "timeYear": 170,
     "dailyMinutesDown": {
       "2024-01-16": 213
     }
