@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.01%",
+    "uptimeYear": "93.02%",
     "time": 235,
     "timeDay": 282,
     "timeWeek": 282,
@@ -65,19 +65,19 @@
     "url": "https://archive.cyberflix.io",
     "icon": "https://archive.cyberflix.io/images/logos/SVGs/Archive.svg",
     "slug": "cyberflix-archive",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 207,
-    "timeDay": 218,
-    "timeWeek": 235,
-    "timeMonth": 257,
+    "timeDay": 206,
+    "timeWeek": 230,
+    "timeMonth": 255,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2025-02-12": 0
+      "2025-02-12": 14
     }
   }
 ]
