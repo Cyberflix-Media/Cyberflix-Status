@@ -24,18 +24,16 @@
     "slug": "cyberflix-docs",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 218,
     "timeDay": 313,
     "timeWeek": 251,
     "timeMonth": 249,
     "timeYear": 226,
-    "dailyMinutesDown": {
-      "2025-04-28": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cyberflix Archive",
