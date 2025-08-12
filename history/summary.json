@@ -23,7 +23,7 @@
     "icon": "https://archive.cyberflix.io/images/logos/SVGs/Docs.svg",
     "slug": "cyberflix-docs",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -40,17 +40,19 @@
     "url": "https://archive.cyberflix.io",
     "icon": "https://archive.cyberflix.io/images/logos/SVGs/Archive.svg",
     "slug": "cyberflix-archive",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.53%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 243,
-    "timeDay": 192,
-    "timeWeek": 268,
-    "timeMonth": 291,
-    "timeYear": 256,
-    "dailyMinutesDown": {}
+    "timeDay": 164,
+    "timeWeek": 251,
+    "timeMonth": 286,
+    "timeYear": 255,
+    "dailyMinutesDown": {
+      "2025-08-12": 36
+    }
   }
 ]
