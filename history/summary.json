@@ -24,19 +24,19 @@
     "url": "https://docs.cyberflix.io",
     "icon": "https://archive.cyberflix.io/images/logos/SVGs/Docs.svg",
     "slug": "cyberflix-docs",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "91.99%",
-    "uptimeWeek": "98.86%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.98%",
-    "time": 250,
-    "timeDay": 334,
-    "timeWeek": 330,
-    "timeMonth": 286,
+    "uptimeDay": "90.62%",
+    "uptimeWeek": "98.66%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.97%",
+    "time": 251,
+    "timeDay": 331,
+    "timeWeek": 329,
+    "timeMonth": 287,
     "timeYear": 256,
     "dailyMinutesDown": {
-      "2025-11-18": 115
+      "2025-11-18": 135
     }
   },
   {
