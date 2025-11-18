@@ -1,7 +1,7 @@
 url: https://docs.cyberflix.io
-status: up
-code: 200
-responseTime: 692
-lastUpdated: 2025-11-17T23:08:36.283Z
+status: down
+code: 500
+responseTime: 177
+lastUpdated: 2025-11-18T11:33:10.009Z
 startTime: 2022-05-16T13:07:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
